@@ -1,0 +1,9 @@
+
+.idea/bikesharing.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+data/.DS_Store
+data/201908-citibike-tripdata_original.csv
+data/201908-citibike-tripdata.csv
