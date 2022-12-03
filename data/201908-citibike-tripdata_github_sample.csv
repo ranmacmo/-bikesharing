@@ -1,4 +1,4 @@
-tripduration,starttime,stoptime,start station id,start station name,start station latitude,start station longitude,end station id,end station name,end station latitude,end station longitude,bikeid,usertype,birth year,gender,tripduration_min
+tripduration,starttime,stoptime,start station id,start station name,start station latitude,start station longitude,end station id,end station name,end station latitude,end station longitude,bikeid,usertype,birth year,gender,tripduration_sec
 393,2019-08-01 00:00:01.4680,2019-08-01 00:06:35.3780,531.0,Forsyth St & Broome St,40.71893904,-73.99266288,408.0,Market St & Cherry St,40.71076228,-73.99400398,35305,Subscriber,1996,2,1970-01-01 00:06:33
 627,2019-08-01 00:00:01.9290,2019-08-01 00:10:29.7840,274.0,Lafayette Ave & Fort Greene Pl,40.68691865,-73.976682,3409.0,Bergen St & Smith St,40.6867443,-73.99063168,38822,Subscriber,1998,2,1970-01-01 00:10:27
 1132,2019-08-01 00:00:04.0480,2019-08-01 00:18:56.1650,2000.0,Front St & Washington St,40.70255088,-73.98940236,3388.0,President St & Henry St,40.6828003,-73.99990419,18373,Subscriber,1988,1,1970-01-01 00:18:52
