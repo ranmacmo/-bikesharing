@@ -8,3 +8,4 @@ data/.DS_Store
 data/201908-citibike-tripdata_original.csv
 data/201908-citibike-tripdata.csv
 images/.DS_Store
+.DS_Store
